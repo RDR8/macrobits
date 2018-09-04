@@ -1,0 +1,129 @@
+[submodule "microbit-foundation/microbit-reference-design"]
+	path = microbit-foundation/microbit-reference-design
+	url = https://github.com/microbit-foundation/microbit-reference-design.git
+[submodule "microbit-foundation/microbit-android"]
+	path = microbit-foundation/microbit-android
+	url = https://github.com/microbit-foundation/microbit-android.git
+[submodule "samsung/microbit"]
+	path = samsung/microbit
+	url = https://github.com/samsung/microbit.git
+[submodule "microbit-foundation/DAPLink"]
+	path = microbit-foundation/DAPLink
+	url = https://github.com/microbit-foundation/DAPLink.git
+[submodule "lancaster-university/microbit"]
+	path = lancaster-university/microbit
+	url = https://github.com/lancaster-university/microbit
+[submodule "lancaster-university/microbit-dal"]
+	path = lancaster-university/microbit-dal
+	url = https://github.com/lancaster-university/microbit-dal
+[submodule "lancaster-university/microbit-samples"]
+	path = lancaster-university/microbit-samples
+	url = https://github.com/lancaster-university/microbit-samples
+[submodule "lancaster-university/nrf51-sdk"]
+	path = lancaster-university/nrf51-sdk
+	url = https://github.com/lancaster-university/nrf51-sdk
+[submodule "lancaster-university/nRF51822"]
+	path = lancaster-university/nRF51822
+	url = https://github.com/lancaster-university/nRF51822
+[submodule "lancaster-university/quiz-bit"]
+	path = lancaster-university/quiz-bit
+	url = https://github.com/lancaster-university/quiz-bit.git
+[submodule "lancaster-university/BLE_API"]
+	path = lancaster-university/BLE_API
+	url = https://github.com/lancaster-university/BLE_API.git
+[submodule "rust-embedded/cortex-m"]
+	path = rust-embedded/cortex-m
+	url = https://github.com/rust-embedded/cortex-m
+[submodule "rust-embedded/cortex-m-rt"]
+	path = rust-embedded/cortex-m-rt
+	url = https://github.com/rust-embedded/cortex-m-rt
+[submodule "rust-embedded/svd2rust"]
+	path = rust-embedded/svd2rust
+	url = https://github.com/rust-embedded/svd2rust.git
+[submodule "rust-embedded/cortex-m-quickstart"]
+	path = rust-embedded/cortex-m-quickstart
+	url = https://github.com/rust-embedded/cortex-m-quickstart
+[submodule "rust-embedded/panic-itm"]
+	path = rust-embedded/panic-itm
+	url = https://github.com/rust-embedded/panic-itm
+[submodule "rust-embedded/itm"]
+	path = rust-embedded/itm
+	url = https://github.com/rust-embedded/itm
+[submodule "rust-embedded/panic-semihosting"]
+	path = rust-embedded/panic-semihosting
+	url = https://github.com/rust-embedded/panic-semihosting
+[submodule "rust-embedded/fixedvec-rs"]
+	path = rust-embedded/fixedvec-rs
+	url = https://github.com/rust-embedded/fixedvec-rs.git
+[submodule "therealprof/microbit"]
+	path = therealprof/microbit
+	url = https://github.com/therealprof/microbit.git
+[submodule "therealprof/nrf51-hal"]
+	path = therealprof/nrf51-hal
+	url = https://github.com/therealprof/nrf51-hal.git
+[submodule "therealprof/nrf51"]
+	path = therealprof/nrf51
+	url = https://github.com/therealprof/nrf51.git
+[submodule "therealprof/mag3110"]
+	path = therealprof/mag3110
+	url = https://github.com/therealprof/mag3110.git
+[submodule "rust-embedded/embedded-hal"]
+	path = rust-embedded/embedded-hal
+	url = https://github.com/rust-embedded/embedded-hal.git
+[submodule "rust-embedded/cortex-m-semihosting"]
+	path = rust-embedded/cortex-m-semihosting
+	url = https://github.com/rust-embedded/cortex-m-semihosting
+[submodule "rust-embedded/alloc-cortex-m"]
+	path = rust-embedded/alloc-cortex-m
+	url = https://github.com/rust-embedded/alloc-cortex-m
+[submodule "japaric/cortex-m-rtfm"]
+	path = japaric/cortex-m-rtfm
+	url = https://github.com/japaric/cortex-m-rtfm
+[submodule "japaric/libm"]
+	path = japaric/libm
+	url = https://github.com/japaric/libm
+[submodule "japaric/panic-abort"]
+	path = japaric/panic-abort
+	url = https://github.com/japaric/panic-abort
+[submodule "japaric/arle"]
+	path = japaric/arle
+	url = https://github.com/japaric/arle
+[submodule "japaric/rtfm-syntax"]
+	path = japaric/rtfm-syntax
+	url = https://github.com/japaric/rtfm-syntax
+[submodule "japaric/bare-metal"]
+	path = japaric/bare-metal
+	url = https://github.com/japaric/bare-metal
+[submodule "japaric/heapless"]
+	path = japaric/heapless
+	url = https://github.com/japaric/heapless
+[submodule "thejpster/console-traits"]
+	path = thejpster/console-traits
+	url = https://github.com/thejpster/console-traits
+[submodule "thejpster/multi-map"]
+	path = thejpster/multi-map
+	url = https://github.com/thejpster/multi-map
+[submodule "thejpster/embedded_serial"]
+	path = thejpster/embedded_serial
+	url = https://github.com/thejpster/embedded_serial
+[submodule "thejpster/harness-rs"]
+	path = thejpster/harness-rs
+	url = https://github.com/thejpster/harness-rs
+[submodule "japaric/volatile-register"]
+	path = japaric/volatile-register
+	url = https://github.com/japaric/volatile-register
+[submodule "SimonSapin/rust-on-bbc-microbit"]
+	path = SimonSapin/rust-on-bbc-microbit
+	url = https://github.com/SimonSapin/rust-on-bbc-microbit
+[submodule "japaric/serde-json-core"]
+	path = japaric/serde-json-core
+	url = https://github.com/japaric/serde-json-core
+[submodule "japaric/r0"]
+	path = japaric/r0
+	url = https://github.com/japaric/r0
+[submodule "droogmic/microrust"]
+	path = droogmic/microrust
+	url = https://github.com/droogmic/microrust
+[submodule "lancaster-university/microbit-docs"]
+	path = lancaster-university/microbit-docs
+	url = https://github.com/lancaster-university/microbit-docs
